@@ -1,0 +1,20 @@
+# .streamlit/config.toml
+
+[theme]
+# Base theme: light or dark
+base = "light"
+
+# Primary color for buttons, sliders, highlights
+primaryColor = "#c07ad3"
+
+# Main background color of the app
+backgroundColor = "#ebe6ed"
+
+# Secondary background color for sidebar, inputs, and widgets
+secondaryBackgroundColor = "#d990ec"
+
+# Text color
+textColor = "#4B0082"
+
+# Font for the app (works in Streamlit >= 1.18)
+font = "sans serif"
