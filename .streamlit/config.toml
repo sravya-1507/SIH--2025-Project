@@ -17,4 +17,4 @@ secondaryBackgroundColor = "#d990ec"
 textColor = "#4B0082"
 
 # Font for the app (works in Streamlit >= 1.18)
-font = "sans serif"
+font = "sans serif"
